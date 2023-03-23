@@ -1,0 +1,211 @@
+*
+        {
+            margin: 0px;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 20px;
+            background-color: #FEFFF5;
+            text-decoration: none
+        }
+        .a
+        {
+            color: black;
+        }
+        .teto
+    {       
+        width: 100%;
+        height: 8vh;
+        display: flex;
+        flex-direction: row;
+        align-content: center;
+        justify-content: space-evenly;
+        justify-items: center;
+    } 
+    .escrita1:hover
+    {
+        cursor: pointer;
+        color: blueviolet;
+    }
+    .escrita2:hover
+    {
+        cursor: pointer;
+        color: blueviolet;
+    }
+    .escrita3:hover
+    {
+        cursor: pointer;
+        color: blueviolet;
+    }
+    .escrita4:hover
+    {
+        cursor: pointer;
+        color: blueviolet;
+    }
+    .escrita1
+    {
+        font-size: 20px;
+    }
+        .invisivel
+        {
+            width: 30%;
+            height: 100%;
+        }
+        .escrita2
+    {
+        font-size: 20px;
+    }
+    .escrita3
+    {
+        font-size: 20px;
+    }
+    .escrita4
+    {
+        width: 0px;
+        font-size: 20px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .tetao
+    {
+        width: 30%;
+        height: 100%;
+        justify-content: space-between;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    .globao
+    {
+        width: 30px;
+    }
+    .pesquisa
+    {   
+
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin-left: 25%;
+        width: 50%;
+        height: 8vh;
+    }
+    .filtro
+    {   
+        margin-top: 150px;
+        font-size: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        width: 30%;
+    }
+    .filtrosss
+    {
+        border-radius: 3px;
+        border: solid 1px;
+    }
+    .barra
+    {   
+        margin-top: 150px;
+        display: flex;
+        background-color: black;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        border-radius: 25px;
+        height: 50px;
+        width: 400px;
+        margin-left: 20px;
+    }
+    #txtBusca
+    {
+        float:left;
+        color: aliceblue;
+        background-color:transparent;
+        padding-left: 5%;
+        font-size:18px;
+        border:none;
+        height:32px;
+        width: 70%;
+    }
+    .textin
+    {
+        height: 50%;
+        width: 80%;
+    }
+    .lupinha
+    {
+        left: 10px;
+    }
+    .lupinha:hover
+    {
+        cursor: pointer;
+    }
+   
+    input:focus
+    {
+        outline: 0;
+    }   
+    .produtos
+    {   
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        width: 80%;
+        height: 500px;
+        margin-left: 10%;
+    }
+    .itens1
+    {   
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-top: 5vh;
+        height: 600px;
+        margin-bottom: 5vh;
+        width: 90%;
+    }
+    .item1
+    {   
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        border: solid 2px;
+        border-color: black ;
+    }
+    .item2
+    {   
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        border: solid 2px;
+        border-color: black ;
+    }
+    .item3
+    {   
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        border: solid 2px;
+        border-color: black ;
+    }
+    .botaoler
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 25px;
+        height: 50px;
+        width: 150px;
+        background-color: #5271FF;
+        color: white;
+    }
+    .botaoler:hover
+    {
+        cursor: pointer;
+        background-color: #405fe6e8;
+    }

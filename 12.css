@@ -1,0 +1,389 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*        {
+            margin: 0px;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: bold;
+            background-color: #FEFFF5;
+       }
+          .teto
+    {
+        width: 100%;
+        height: 12vh;
+        display: flex;
+        flex-direction: row;
+        align-content: center;
+        justify-content: center;
+        justify-items: center;
+    } 
+    .escrita1
+    {
+        font-size: 20px;
+        
+    }
+        .invisivel
+        {
+            width: 50%;
+            height: 100%;
+        }
+        .escrita2
+    {
+        font-size: 20px;
+    }
+    .escrita3
+    {
+        font-size: 20px;
+    }
+    .escrita4
+    {
+        width: 50px;
+        font-size: 20px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-content: center;
+        align-items: center;
+    }
+    .globao
+    {
+        width: 20px;
+
+    }
+    .tetao
+    {
+        width: 30%;
+        height: 100%;
+        justify-content: space-between;
+        justify-items: center;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    .pedro
+    {
+        height: 70px;
+        width: 200px;
+        margin-top: 10px;
+    }
+    .embaixo
+    {
+        width: 90%;
+        height: 80vh;
+        margin-top: 35px;
+        margin-left: 70px;
+        display: flex;
+        flex-direction: row;
+    }
+    .retan1
+    {
+        width: 475px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .retan2
+    {
+        width: 475px;
+        height: 100%;
+    }
+    .retan3
+    {
+        width: 475px;
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        justify-items: center;
+        align-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .Dados
+    {
+        font-size: 30px;
+    }
+    .numero
+    {
+        margin-top: 5px;
+        height: 30px;
+    }
+    .valicode
+    {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
+        height: 50px;
+        margin-top: 50px;
+    }
+    .validade
+    {
+        display: flex;
+        flex-direction: column;
+    }
+    .vali
+    {
+        height: 30px;
+    }
+    .CVV
+    {
+        height: 30px;
+    }
+    .codigo
+    {
+        margin-left: 135px;
+    }
+    .Nome
+    {
+        margin-top: 50px;
+    }
+    .nome
+    {
+        height: 30px;
+    }
+    .cpf
+    {
+        height: 30px;
+    }
+    .CPF
+    {
+        margin-top: 50px;
+    }
+    .teda
+    {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
+        height: 70px;
+        margin-top: 40px;
+    }
+    .telefone
+    {
+        display: flex;
+        flex-direction: column;
+    }
+    .data
+    {
+        margin-left: 135px;
+    }
+    .para
+    {
+        width: 100%;
+        height: 45px;
+        margin-top: 40px;
+    }
+    .borda
+    {
+        width: 100%;
+        height: 500px;
+    }
+    .parte1
+    {
+        width: 100%;
+        height: 12%;
+        border: solid;
+        border-color: rgb(197, 199, 197);
+        font-size: 25px;
+        display: flex;
+        align-items: center;
+        justify-items: center;
+        align-content: center;
+        justify-content: center;
+    }
+    .parte2
+    {
+        width: 100%;
+        height: 22%;
+        border: solid;
+        border-color: rgb(197, 199, 197);
+        display: flex;
+        align-items: center;
+        justify-items: center;
+        align-content: center;
+        justify-content: center;
+        flex-direction: row;
+    }
+    .parte3
+    {
+        width: 100%;
+        height: 22%;
+        border: solid;
+        border-color: rgb(197, 199, 197);
+        display: flex;
+        flex-direction: column;
+    }
+    .parte4
+    {
+        width: 100%;
+        height: 22%;
+        border: solid;
+        border-color: rgb(197, 199, 197);
+    }
+    .parte5
+    {
+        width: 100%;
+        height: 22%;
+        border: solid;
+        border-color: rgb(197, 199, 197);
+    }
+    .peq
+    {
+        font-size: 15px;
+        display: flex;
+        margin-right: 150px;
+        font-weight: 100;
+    }
+    .gran
+    {
+        display: flex;
+        margin-right: 110px;
+        font-size: 22px;
+        margin-top: 6px;
+    }
+    .excrita
+    {
+        display: flex;
+        align-items: center;
+        justify-items: center;
+        align-content: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .num
+    {
+        
+        display: flex;
+        margin-top: 70px;
+        margin-left: 65px;
+        font-weight: 200;
+        font-size: 20px;
+    }
+    .mini
+    {
+        width: 60px;
+        height: 40px;
+        display: flex;
+        margin-top: 1px;
+    
+    }
+    .ca
+    {
+        display: flex;
+        flex-direction: row;
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    .forma
+    {
+        font-size: 15px;
+        margin-left: 20px;
+        margin-top: 14px;
+        font-weight: 100;
+    }
+    .cc
+    {
+        font-size: 22px;
+        margin-top: 9px;
+        margin-left: 5px;
+    }
+    .tempo
+    {
+        font-size: 15px;
+        margin-top: 32px;
+        margin-left: 20px;
+        font-weight: 100;
+    }
+    .util
+    {
+        font-size: 22px;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    .parte5
+    {
+        display: flex;
+        flex-direction: column;
+        background-color: rgb(233, 230, 230);
+    }
+    .ult1
+    {
+        font-size: 15px;
+        margin-top: 20px;
+        margin-left: 20px;
+        font-weight: 100;
+        background-color: rgb(233, 230, 230);
+    }
+    .ult2
+    {
+        display: flex;
+        flex-direction: row;
+        background-color: rgb(233, 230, 230);
+    }
+    .totall
+    {
+        font-size: 15px;
+        margin-top: 20px;
+        margin-left: 20px;
+        font-weight: 100;
+        background-color: rgb(233, 230, 230);
+    }
+    .deze
+    {
+        font-size: 23px;
+        font-weight: 900;
+        margin-top: 15px;
+        margin-left: 3px;
+        background-color: rgb(233, 230, 230);
+    }
+    button
+    {
+        width: 450px;
+        height: 70px;
+        font-size: 20px;
+        background-color: greenyellow;
+    }
+    .tele
+    {
+        height: 30px;
+    }
+    .date
+    {
+        height: 30px;
+    }
+    .cartao
+    {
+        width: 300px;
+        height: 200px;
+        display: flex;
+        margin-left: 80px;
+    }
+    .a
+    {
+        text-decoration: none;
+        color: black;
+    }
+    button:hover
+    {
+        cursor: pointer;
+        color: purple;
+    }
+    .escrita1:hover
+    {
+        cursor: pointer;
+        color: purple;
+    }
+    .escrita2:hover
+    {
+        cursor: pointer;
+        color: purple;
+    }
+    .escrita3:hover
+    {
+        cursor: pointer;
+        color: purple;
+    }
+    .escrita4:hover
+    {
+        cursor: pointer;
+        color: purple;
+    }

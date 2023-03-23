@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*        {
+            margin: 0px;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: bold;
+            background-color: #FEFFF5;
+            text-decoration: none;
+            animation: abrindo 2s;
+        }
+        @keyframes abrindo
+               {
+                0%{opacity: 0;}
+                100%{opacity: 1;}
+               }
+        .a
+        {
+            color: black;
+        }
+          .teto
+    {
+        width: 100%;
+        height: 12vh;
+        display: flex;
+        flex-direction: row;
+        align-content: center;
+        justify-content: center;
+        justify-items: center;
+    }
+    .invisivel
+        {
+            width: 50%;
+            height: 100%;
+        }
+    .escrita1
+    {
+        font-size: 20px;
+        
+    }
+        .invisivel
+        {
+            width: 50%;
+            height: 100%;
+        }
+        .escrita2
+    {
+        font-size: 20px;
+    }
+    .escrita3
+    {
+        font-size: 20px;
+    }
+    .escrita4
+    {
+        width: 50px;
+        font-size: 20px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-content: center;
+        align-items: center;
+    }
+    .globao
+    {
+        width: 20px;
+
+    }
+    .tetao
+    {
+        width: 30%;
+        height: 100%;
+        justify-content: space-between;
+        justify-items: center;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    .embaixo
+    {
+        margin-left: 550px;
+        width: 30%;
+        height: 75vh;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+    }
+    .escrita1:hover
+    {
+        cursor: pointer;
+        color: blueviolet;
+    }
+    .escrita2:hover
+    {
+        cursor: pointer;
+        color: blueviolet;
+    }
+    .escrita3:hover
+    {
+        cursor: pointer;
+        color: blueviolet;
+    }
+    .escrita4:hover
+    {
+        cursor: pointer;
+        color: blueviolet;
+    }
+    .usuarioo
+    {
+        width: 80px;
+    }
+    .escritas
+    {
+        width: 400px;
+        display: flex;
+        flex-direction: column;
+        height: 250px;
+        justify-content: space-around;
+        font-size: 20px;
+    }
+    .texto
+    {
+        width: 410px;
+        height: 50px;
+    }
+    button
+    {
+        width: 350px;
+        height: 60px;
+        font-size: 12px;
+        justify-items: center;
+        align-items: center;
+        border-radius: 30px;
+        background-color: #CFE15D;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    button:hover
+    {
+     background-color: #c2d357;
+     cursor: pointer;
+    }
+    .botao
+    {
+        margin-top: 20px;
+        width: 100%;
+        height: 20%;
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+        align-content: center;
+        align-items: center;
+    }
+    .final
+    {
+        margin-top: 10px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
+        align-content: center;
+    }
+    .registre
+    {
+        text-decoration: underline;
+    }
+    .Email
+    {
+        border-top: 0cm;
+        border-left: 0cm;
+        border-right: 0cm;
+        font-size: 1em;
+    }
+    .Email:focus
+    {
+        border-top: 0cm;
+        border-left: 0cm;
+        border-right: 0cm; 
+        box-shadow: 0 0 0 0;
+        outline: none;
+    }
+    .Senha
+    {
+        border-top: 0cm;
+        border-left: 0cm;
+        border-right: 0cm;
+        font-size: 2em;
+        
+    }
+    .Senha:focus
+    {
+        border-top: 0cm;
+        border-left: 0cm;
+        border-right: 0cm; 
+        box-shadow: 0 0 0 0;
+        outline: none;
+    }
