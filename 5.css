@@ -4,6 +4,7 @@
             margin: 0px;
             font-family: 'Montserrat', sans-serif;
             text-decoration: none;
+            animation: abrindo 2s;
         }
         @keyframes abrindo
                {
